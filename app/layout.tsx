@@ -1,7 +1,7 @@
 import "./globals.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import MatomoTracker from "./MatomoTracker";
+import MatomoTracker from "./components/MatomoTracker";
 
 const inter = Inter({ subsets: ["latin"] });
 
